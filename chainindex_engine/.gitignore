@@ -1,0 +1,6 @@
+models/**/*
+volume/**/*
+llama.cpp
+outputs
+unsloth_compiled_cache
+.venv

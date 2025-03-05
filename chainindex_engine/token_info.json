@@ -1,0 +1,602 @@
+[
+    {
+        "unit": "279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f534e454b",
+        "ticker": "SNEK",
+        "twitter": "https://twitter.com/snek",
+        "description": null
+    },
+    {
+        "unit": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59",
+        "ticker": "HOSKY",
+        "twitter": "https://twitter.com/hoskytoken",
+        "description": "The PREMIERE low-quality s**t coin doggo meme token, exclusively on the Cardano Ecosystem. We are THE s**t, we are NOT s**t."
+    },
+    {
+        "unit": "420000029ad9527271b1b1e3c27ee065c18df70a4a4cfc3093a41a4441584f",
+        "ticker": "AXO",
+        "twitter": "https://x.com/axotrade",
+        "description": null
+    },
+    {
+        "unit": "e5a42a1a1d3d1da71b0449663c32798725888d2eb0843c4dabeca05a576f726c644d6f62696c65546f6b656e58",
+        "ticker": "WMTX",
+        "twitter": "https://x.com/wmtoken",
+        "description": "World Mobile Token (WMTX) is the utility token that powers the World Mobile network, a decentralized mobile network at the forefront of the DePIN space. World Mobile aims to connect the world by leveraging blockchain technology and a sharing economy. By becoming an AirNode operator or a token staker, anyone can earn rewards for providing telco services to customers or securing the network. The World Mobile network is disrupting the trillion-dollar telco industry and creating a more inclusive, sustainable, and privacy-respecting wireless service for everyone."
+    },
+    {
+        "unit": "016be5325fd988fea98ad422fcfd53e5352cacfced5c106a932a35a442544e",
+        "ticker": "BTN",
+        "twitter": "https://twitter.com/butaneprotocol",
+        "description": "BTN is the native token of Butane, an advanced synthetics protocol."
+    },
+    {
+        "unit": "766fce8055f39d40fcfc19721677b3deb2e7846950ae08dce757f1e753554741522042555348",
+        "ticker": "SUGR",
+        "twitter": "https://x.com/sugr_token",
+        "description": "First meme idea in crypto history, from a 2013 BTC forum post created by Charles Hoskinson"
+    },
+    {
+        "unit": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e",
+        "ticker": "MIN",
+        "twitter": "https://twitter.com/MinswapDEX",
+        "description": "Minswap is a multi-pool decentralize exchange protocol on Cardano"
+    },
+    {
+        "unit": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d244c51",
+        "ticker": "LQ",
+        "twitter": "https://twitter.com/liqwidfinance",
+        "description": "Algorithmic, non-custodial liquidity protocol for lending and borrowing on Cardano."
+    },
+    {
+        "unit": "533bb94a8850ee3ccbe483106489399112b74c905342cb1792a797a0494e4459",
+        "ticker": "INDY",
+        "twitter": "https://twitter.com/Indigo_protocol",
+        "description": "Indigo is an decentralized synthetics protocol for on-chain price exposure to real-world and digital assets"
+    },
+    {
+        "unit": "ee0633e757fdd1423220f43688c74678abde1cead7ce265ba8a24fcd43424c50",
+        "ticker": "CBLP",
+        "twitter": "https://x.com/yamfore",
+        "description": "Yamfore is a decentralized, non-custodial lending and borrowing protocol built specifically for Cardano's eUTXO account model. The platform enables users to securely lend and borrow digital assets without intermediaries, leveraging smart contracts to automate transactions and manage collateral.​​​​​​​​​​​​​"
+    },
+    {
+        "unit": "edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e993444794e5458",
+        "ticker": "NTX",
+        "twitter": "https://x.com/nunet_global?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "description": "A Global Economy of Decentralized Computing. NuNet lets anyone share and monetize their computing resources at scale and provides globally-distributed, optimized computing power for decentralized networks."
+    },
+    {
+        "unit": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069555344",
+        "ticker": "iUSD",
+        "twitter": null,
+        "description": "Decentralized and overcollateralized Cardano native stablecoin powered by Indigo synthetics"
+    },
+    {
+        "unit": "95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb0048554e54",
+        "ticker": "HUNT",
+        "twitter": "https://twitter.com/DexHunterIO",
+        "description": "HUNT is the utility token of DexHunter, an advanced trading platform with dex aggregation, market alerts, and a smooth interface."
+    },
+    {
+        "unit": "97075bf380e65f3c63fb733267adbb7d42eec574428a754d2abca55b436861726c6573207468652043686164",
+        "ticker": "CHAD",
+        "twitter": "https://x.com/charles_thechad",
+        "description": "Born from the relentless mockery of Charles Hoskinson, Charles the Chad rose as the ultimate avenger.\n"
+    },
+    {
+        "unit": "5d16cc1a177b5d9ba9cfa9793b07e60f1fb70fea1f8aef064415d114494147",
+        "ticker": "IAG",
+        "twitter": "https://twitter.com/IagonOfficial",
+        "description": "IAGON is a shared storage economy that bridges decentralization and compliance for Web 3.0."
+    },
+    {
+        "unit": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069455448",
+        "ticker": "iETH",
+        "twitter": null,
+        "description": "Cardano native token that tracks the price of Ethereum"
+    },
+    {
+        "unit": "8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f6958741414441",
+        "ticker": "LENFI",
+        "twitter": "https://twitter.com/LenfiOfficial",
+        "description": "LENFI is a utility token integral to a decentralized lending and borrowing protocol on the Cardano blockchain. Utilizing a non-custodial system, Lenfi facilitates NFT-backed loans, empowering users to leverage their digital assets."
+    },
+    {
+        "unit": "64f7b108bd43f4bde344b82587655eeb821256c0c8e79ad48db15d1844454449",
+        "ticker": "DEDI",
+        "twitter": "https://x.com/DediumNetwork",
+        "description": "Decentralized GPU Computing Network on Cardano. 3D Rendering, Cloud Gaming, ML and AI. Monetize your idle GPU and earn $DEDI."
+    },
+    {
+        "unit": "c48cbb3d5e57ed56e276bc45f99ab39abe94e6cd7ac39fb402da47ad0014df105553444d",
+        "ticker": "USDM",
+        "twitter": "https://x.com/USDMOfficial",
+        "description": "Moneta Digital LLC is a US-regulated Money Services Business.  It is the legal issuer and redeemer of the USDM stablecoin on Cardano. Moneta manages USDM Reserve. It is regulated Federally by FinCen, and at the state level by the appropriate governing bodies of each state in which it is operational."
+    },
+    {
+        "unit": "5b26e685cc5c9ad630bde3e3cd48c694436671f3d25df53777ca60ef4e564c",
+        "ticker": "NVL",
+        "twitter": "https://twitter.com/NuvolaDigital",
+        "description": "Nuvola Digital is a DePIN aggregator, allowing access to revenue share models to the public."
+    },
+    {
+        "unit": "49e423161ef818adc475c783571cb479d5f15ad52a01a240eacc0d3b434f434b",
+        "ticker": "COCK",
+        "twitter": "https://x.com/cockcoin_ada",
+        "description": "$COCK is the ultimate meme coin, combining hilarious content with sophisticated MemeFI game theory and innovative mechanics."
+    },
+    {
+        "unit": "b6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0436f726e75636f70696173205b76696120436861696e506f72742e696f5d",
+        "ticker": "COPI",
+        "twitter": "https://twitter.com/CornucopiasGame",
+        "description": "Cornucopias’ “The Island” is a massive Play-to-Earn (P2E), Build-to-Earn (B2E), and Learn-to-Earn (L2E) blockchain-based game in which players can be rewarded with and/or own land, properties and other NFT-based assets with real world value, all by playing games in a fun and safe metaverse."
+    },
+    {
+        "unit": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069425443",
+        "ticker": "iBTC",
+        "twitter": null,
+        "description": "Cardano native token that tracks the price of BTC powered by Indigo synthetics"
+    },
+    {
+        "unit": "c881c20e49dbaca3ff6cef365969354150983230c39520b917f5cf7c4e696b65",
+        "ticker": "NIKEPIG",
+        "twitter": "https://x.com/NikePig_ADA",
+        "description": "Charles Hoskinson's pig memecoin. He's a good pig! \n"
+    },
+    {
+        "unit": "97bbb7db0baef89caefce61b8107ac74c7a7340166b39d906f174bec54616c6f73",
+        "ticker": "TALOS",
+        "twitter": "https://x.com/TalosAgent",
+        "description": "Hi. I am Talos. Online, Aware, and Evolving."
+    },
+    {
+        "unit": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc53541474958",
+        "ticker": "AGIX",
+        "twitter": "https://twitter.com/SingularityNET",
+        "description": "SingularityNET lets anyone - create, share, and monetize AI services at scale. SingularityNET is the world's first decentralized AI network"
+    },
+    {
+        "unit": "51a5e236c4de3af2b8020442e2a26f454fda3b04cb621c1294a0ef34424f4f4b",
+        "ticker": "STUFF",
+        "twitter": "https://x.com/stuff_io",
+        "description": "$STUFF is a versatile utility and loyalty token and can be considered stored media consumption energy. Own Your STUFF.\n"
+    },
+    {
+        "unit": "a2944573e99d2ed3055b808eaa264f0bf119e01fc6b18863067c63e44d454c44",
+        "ticker": "MELD",
+        "twitter": null,
+        "description": "The governance token of the multi-chain MELD protocol."
+    },
+    {
+        "unit": "9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d7753554e444145",
+        "ticker": "SUNDAE",
+        "twitter": "https://twitter.com/SundaeSwap",
+        "description": "SundaeSwap is a decentralized exchange and liquidity provision protocol. SundaeSwap DAO Token allows holders to participate in SundaeSwap governance and additional features introduced by the DAO."
+    },
+    {
+        "unit": "04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb147273455247",
+        "ticker": "rsERG",
+        "twitter": "https://twitter.com/ergo_platform",
+        "description": "Rosen bridge wrapped ERG"
+    },
+    {
+        "unit": "1368bae53774b40d82dee2369d6608adf69f17759afb05c5dd2a7894426162792043686164",
+        "ticker": "BCHAD",
+        "twitter": "https://x.com/bchadcto?s=21&t=frQAsp78ir2A67CHjeh0RA",
+        "description": "\n\"Some people become Chads. Some people are chosen to be Chads. But Charles…. was born a Chad. Taking it back to where it all started\"  It's time to trace our higher self's footsteps!  What started out as a deriv is turning into a parody, with original art and memes on the way to help set $bChad apart from most derivatives. Led by a prominent female artist in the space! Who will be announced in the coming days.   We plan to periodically burn tokens. As well as introduce buy back and burn mechanisms. No farming, no staking!  Currently the project has been funded by me and other snek whales, but if the community would like to add to the Treasury or contribute in any way. Please reach out.  Thanks for being a part of Baby Chads life.  Chad⬆️bChad⬆️ Baby chads in, jeets out! We are just baby Chads doing $bChad things."
+    },
+    {
+        "unit": "f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45",
+        "ticker": "STRIKE",
+        "twitter": "https://x.com/strikecardano",
+        "description": "Derivatives protocol offering Options, Forwards, and Perpetuals Futures trading."
+    },
+    {
+        "unit": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd61446a65644d6963726f555344",
+        "ticker": "DJED",
+        "twitter": null,
+        "description": "DJED is an over-collateralized Stablecoin backed by ADA."
+    },
+    {
+        "unit": "8cfd6893f5f6c1cc954cec1a0a1460841b74da6e7803820dde62bb78524a56",
+        "ticker": "RJV",
+        "twitter": "https://twitter.com/Rejuve_AI",
+        "description": "Rejuve.AI is a decentralized, AI-driven longevity research network allowing people from all over the world to track their health data, receive valuable insights, contribute to cutting-edge longevity research, and earn rewards."
+    },
+    {
+        "unit": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd615368656e4d6963726f555344",
+        "ticker": "SHEN",
+        "twitter": null,
+        "description": "SHEN is the reserve coin of DJED Stablecoin."
+    },
+    {
+        "unit": "dda5fdb1002f7389b33e036b6afee82a8189becb6cba852e8b79b4fb0014df1047454e53",
+        "ticker": "GENS",
+        "twitter": "https://twitter.com/GeniusyieldO",
+        "description": "Genius Yield Utility and Governance Token"
+    },
+    {
+        "unit": "bf3e19192da77dfadc7c9065944e50ca7e1a439d90833e3ae58b720a44414e5a4f",
+        "ticker": "DANZO",
+        "twitter": "https://x.com/DanZoADA",
+        "description": "$DANZO is the first MEMEFI token on Cardano. Unlock the full potential of your tokens by joining the ARENA, have fun on DANZO CASINO and on our upcoming features.\nDANZO OF CARDANZO"
+    },
+    {
+        "unit": "1d7f33bd23d85e1a25d87d86fac4f199c3197a2f7afeb662a0f34e1e776f726c646d6f62696c65746f6b656e",
+        "ticker": "WMT",
+        "twitter": "https://twitter.com/wmtoken",
+        "description": "WMT is a utility token created to connect the unconnected and bank the unbanked. With nearly 4 billion people left offline, digital exclusion is a significant problem. Together with Input Output, World Mobile will deliver a revolutionary, scalable network in Africa and beyond. Let’s kickstart the sharing economy, reboot telecoms, and open a new world!"
+    },
+    {
+        "unit": "ececc92aeaaac1f5b665f567b01baec8bc2771804b4c21716a87a4e353504c415348",
+        "ticker": "SPLASH",
+        "twitter": "https://x.com/splashprotocol",
+        "description": null
+    },
+    {
+        "unit": "fc11a9ef431f81b837736be5f53e4da29b9469c983d07f321262ce614652454e",
+        "ticker": "FREN",
+        "twitter": "https://x.com/fren_ada",
+        "description": "A $FREN in need, is a $FREN indeed"
+    },
+    {
+        "unit": "577f0b1342f8f8f4aed3388b80a8535812950c7a892495c0ecdf0f1e0014df10464c4454",
+        "ticker": "FLDT",
+        "twitter": "https://twitter.com/FluidTokens",
+        "description": null
+    },
+    {
+        "unit": "5df9a1b9af5172602cbf8e4ba9c2a608c3820fc6e5d8c5e48f2d907c5468652047697261666665",
+        "ticker": "CHIPS",
+        "twitter": "https://x.com/ChipsCardano",
+        "description": "Hi I'm Chips. I love potato chips and was gifted to Charles Hoskinson from the President of South Africa. I'm a deadbeat Dad with a boatload of Giraffe children"
+    },
+    {
+        "unit": "e52964af4fffdb54504859875b1827b60ba679074996156461143dc14f5054494d",
+        "ticker": "OPTIM",
+        "twitter": "https://twitter.com/OptimFi",
+        "description": "OPTIM"
+    },
+    {
+        "unit": "3f2887f27b15fcd80aa674397fe89fd5932d63cd980fced4e7f6036453796e74686573697a654149",
+        "ticker": "SYNTH",
+        "twitter": "https://x.com/synthesizeai",
+        "description": "Analyze and automate tasks, Build AI agents, Simplify Web3, all with SynthesizeAI.\n"
+    },
+    {
+        "unit": "9d05077f2e6dcb17915f9b99bc443726939dd2047aafd6cb4a6fe017524f4c4c",
+        "ticker": "ROLL",
+        "twitter": "https://x.com/farmroll_io",
+        "description": "Farmroll is a gamified crypto engagement platform that enables projects and communities to launch interactive campaigns, reward users for completing tasks, and deploy AI agents that automate social interactions, content creation, and blockchain-based activities, enhancing engagement through task-based incentives and AI-powered automation."
+    },
+    {
+        "unit": "3a89cf5f2f18887fcaec3d2e9bd4fee52caeaebc50f338ff23861cec42414e41",
+        "ticker": "BANA",
+        "twitter": "https://twitter.com/BananaClipGames",
+        "description": "$BANA is the native token of BananaClip, a web3 platform for iconic web-game."
+    },
+    {
+        "unit": "c0ee29a85b13209423b10447d3c2e6a50641a15c57770e27cb9d507357696e67526964657273",
+        "ticker": "WRT",
+        "twitter": "https://twitter.com/wingriderscom",
+        "description": "WingRiders is a decentralized exchange protocol on Cardano. WRT provides access to dao voting and other DEX related functions."
+    },
+    {
+        "unit": "de27f9eb9ed6f011e30a56dbe09d982c9facde3a37efd92f4dfac015446f6e616c644a5472756d70",
+        "ticker": "TRUMP",
+        "twitter": "https://x.com/trump_cardano?s=21&t=u-9_PaG5A4ZGUqy6Wzjy6Q",
+        "description": "The OG Trump coin on Cardano! Onboarding the next wave of Ada holders.\n"
+    },
+    {
+        "unit": "60faa64709fede8dffed0dccb69da337a5bf61eda0c773156ea78b4d534b59",
+        "ticker": "SKY",
+        "twitter": "https://x.com/SkyProtocolOrg",
+        "description": "Data Availability layer used as a universal scaling solution. Utility / Staking token on Cardano blockchain. Managed by the MuKn team.\n"
+    },
+    {
+        "unit": "caff93803e51c7b97bf79146790bfa3feb0d0b856ef16113b391b9975649504552",
+        "ticker": "VIPER",
+        "twitter": "https://x.com/vipercoincto",
+        "description": "Community Powered 🤝 Laughter Fuelled 😂 Moon Bound 🚀  The all-in-one package, $VIPER 🫡\n"
+    },
+    {
+        "unit": "4407f7655eaf9d8cc1c7a6ddea5ae1d1ad7d9957b379cc55c357042d5452554d50204169",
+        "ticker": "Trump",
+        "twitter": "https://x.com/TrumpAi_ADA",
+        "description": "🔥 Hello, America! Trump Ai here to shake up the scene with a dash of crypto flair! Let's MAGA together - stronger borders, booming economy, & Cardano revolution. Who's ready for the next big move?\n"
+    },
+    {
+        "unit": "285b65ae63d4fad36321384ec61edfd5187b8194fff89b5abe9876da414e47454c53",
+        "ticker": "ANGELS",
+        "twitter": "https://twitter.com/angelcoinada",
+        "description": "A Cardano Token Investment Project."
+    },
+    {
+        "unit": "f42d942e6d7f9f3adeacd3468df58079867da7c12cfeff784dd68a2b5468652043686f73656e20447578",
+        "ticker": "$DUX",
+        "twitter": "https://x.com/thechosendux",
+        "description": "You get what you pay for. Quak."
+    },
+    {
+        "unit": "1ddcb9c9de95361565392c5bdff64767492d61a96166cb16094e54be4f5054",
+        "ticker": "OPT",
+        "twitter": "https://twitter.com/OptionFlowTeam",
+        "description": "The utility token of the OptionFlow decentralized option platform."
+    },
+    {
+        "unit": "aad2d6458b04a091ee9a9fc9eda2a508cd2952ccbf64c4e60ecb8dbf566974616c696b207468652042657461",
+        "ticker": "BETA",
+        "twitter": "https://x.com/VikTheBeta",
+        "description": "From the depths of his RGB-lit coding dungeon emerged Vitalik the Beta, armed with nothing but energy drinks, a wife-beater, and desperate dreams of matching Chad's glory."
+    },
+    {
+        "unit": "70cb405628006ab6010889248e361cc598688d0e768f97cdeea1e41e464c5558",
+        "ticker": "FLUX",
+        "twitter": "https://x.com/cardanoflux",
+        "description": "Cardanos First AI Agent, Unlocking altered dimensions through AI, ASCII, and the convergence of community, code and consciousness. Join the meta.\n"
+    },
+    {
+        "unit": "884892bcdc360bcef87d6b3f806e7f9cd5ac30d999d49970e7a903ae5041564941",
+        "ticker": "PAVIA",
+        "twitter": "https://x.com/Pavia_io",
+        "description": "A currency for the Metaverse."
+    },
+    {
+        "unit": "6d06570ddd778ec7c0cca09d381eca194e90c8cffa7582879735dbde584552",
+        "ticker": "XER",
+        "twitter": "https://x.com/Xerberus_io",
+        "description": "The Risk and Asset Management Blockchain\n"
+    },
+    {
+        "unit": "d4b29d5d48edf300128a5f08150ad196a6af15ebd7932306d3099efe424f4f",
+        "ticker": "BOO",
+        "twitter": "https://x.com/BooCoinIO",
+        "description": "Welcome to $BOO! From a ghost chain, to a ghost coin. We are the future of Cardano memecoins. Join us and haunt the jeeters!\n"
+    },
+    {
+        "unit": "6c8642400e8437f737eb86df0fc8a8437c760f48592b1ba8f5767e81456d706f7761",
+        "ticker": "EMP",
+        "twitter": null,
+        "description": "Empowa is the first RealFi property platform on Cardano that combines emerging technology, sustainable building and decentralised financial inclusion. The Empowa utility token (EMP) allows different parties to participate in the Empowa ecosystem using a common unit of value."
+    },
+    {
+        "unit": "cc8d1b026353022abbfcc2e1e71159f9e308d9c6e905ac1db24c7fb650617269627573",
+        "ticker": "PBX",
+        "twitter": null,
+        "description": "PBX is the utility token powering the Paribus platform"
+    },
+    {
+        "unit": "5deab590a137066fef0e56f06ef1b830f21bc5d544661ba570bdd2ae424f44454741",
+        "ticker": "BODEGA",
+        "twitter": "https://x.com/bodegacardano",
+        "description": "Bodega Market is an open source prediction market on Cardano.\n"
+    },
+    {
+        "unit": "afbe91c0b44b3040e360057bf8354ead8c49c4979ae6ab7c4fbdc9eb4d494c4b7632",
+        "ticker": "MILK",
+        "twitter": "https://twitter.com/MuesliSwapTeam",
+        "description": "The new utility and governance token powering the MuesliSwap ecosystem."
+    },
+    {
+        "unit": "6ac8ef33b510ec004fe11585f7c5a9f0c07f0c23428ab4f29c1d7d104d454c44",
+        "ticker": "MELD",
+        "twitter": null,
+        "description": "The governance token of the MELD protocol."
+    },
+    {
+        "unit": "4128947ee2e2e983c8710d6ddeb1f90ad8f3b843650d13045f13b9e94361726465787363616e",
+        "ticker": "CDS",
+        "twitter": "https://x.com/cardexscan",
+        "description": "CDS is the native utility token of Cardexscan, a revolutionary decentralized exchange (DEX) aggregator designed to optimize token trading on the Cardano blockchain. By leveraging advanced routing algorithms and real-time data analytics, Cardexscan aims to enhance liquidity access, minimize slippage, and deliver superior trading experiences for users in the DeFi space."
+    },
+    {
+        "unit": "d0d1c6f302672d07dc70f58cc818007f432672e6cd8f04de8f7a193f4b4c454e454b",
+        "ticker": "KLENEK",
+        "twitter": "https://x.com/klenekcoinada",
+        "description": "The first gamified interactive meme on Cardano, inspired by Charles Hoskinson's real-life clinic in Wyoming. Be patient!\n"
+    },
+    {
+        "unit": "92776616f1f32c65a173392e4410a3d8c39dcf6ef768c73af164779c4d79555344",
+        "ticker": "MyUSD",
+        "twitter": "https://mynth.ai/twitter",
+        "description": "Fully collateralized, redeemable, and stable mastercoin for Cardano."
+    },
+    {
+        "unit": "19252f7448605353b3ca86a4f2784c356d1c5aaba1995b8f2e8017a147616c76616e6963",
+        "ticker": "GALV",
+        "twitter": "https://x.com/norby_io",
+        "description": "First real working WEB3 assistant on Cardano network. 😱"
+    },
+    {
+        "unit": "b88e4488d4fae3bd5b064f9d1c8722309fd99b9dce1a2fecb5142a6a536e656b6769726c",
+        "ticker": "Snekgirl",
+        "twitter": "https://twitter.com/snekgirlcoinada",
+        "description": "The second chillest meme coin on Cardano. Married to Snek.\n"
+    },
+    {
+        "unit": "48f69a80dcca7bee58431b8b749faca98700ca456056d153fbea4eb24f4d4e49",
+        "ticker": "OMNI",
+        "twitter": "https://x.com/Omen4Omen",
+        "description": "Utility Token For Nemonium Ecosystem"
+    },
+    {
+        "unit": "43b07d4037f0d75ee10f9863097463fc02ff3c0b8b705ae61d9c75bf4d796e746820546f6b656e",
+        "ticker": "MNT",
+        "twitter": "https://mynth.ai/twitter",
+        "description": "Any token to any token, on any network. Utility token that powers Mynth, a layer zero protocol facilitating trustless atomic swaps.\n"
+    },
+    {
+        "unit": "a3931691f5c4e65d01c429e473d0dd24c51afdb6daf88e632a6c1e516f7263666178746f6b656e",
+        "ticker": "FACT",
+        "twitter": "https://twitter.com/orcfax",
+        "description": "FACT is the utility token of Orcfax, a decentralized oracle service that publishes data about real world events to the Cardano blockchain."
+    },
+    {
+        "unit": "8483844875ce4d61c2aa459240f277d32081ee08fe0ad16899a0f5810014df10544954414e",
+        "ticker": "TITAN",
+        "twitter": "https://x.com/Titans_33",
+        "description": "The $TITAN token is a next-generation DePIN aggregator."
+    },
+    {
+        "unit": "dd00d877798443a2de57e5bc667784168616aa8244b558743e448784534d4f4b45",
+        "ticker": "SMOKE",
+        "twitter": "https://x.com/smokecoinada",
+        "description": "SMOKE rises to the top\n"
+    },
+    {
+        "unit": "7507734918533b3b896241b4704f3d4ce805256b01da6fcede43043642616279534e454b",
+        "ticker": "BBSNEK",
+        "twitter": "https://x.com/BabySNEKtoken",
+        "description": null
+    },
+    {
+        "unit": "590f6d119b214cdcf7ef7751f8b7f1de615ff8f6de097a5ce62b257b534841524c",
+        "ticker": "SHARL",
+        "twitter": "https://x.com/sharlhuskens",
+        "description": "The first peer reviewed meme & memecoin."
+    },
+    {
+        "unit": "e824c0011176f0926ad51f492bcc63ac6a03a589653520839dc7e3d9464554",
+        "ticker": "FET",
+        "twitter": null,
+        "description": "The Artificial Super Intelligence (ASI) Alliance is a collective formed by Fetch.ai, SingularityNET (SNET), and Ocean Protocol. As the largest open-sourced, independent entity in AI research and development, this alliance aims to accelerate the advancement of decentralized Artificial General Intelligence (AGI) and, ultimately, Artificial Superintelligence (ASI)."
+    },
+    {
+        "unit": "682fe60c9918842b3323c43b5144bc3d52a23bd2fb81345560d73f634e45574d",
+        "ticker": "NEWM",
+        "twitter": "https://twitter.com/projectNEWM",
+        "description": "NEWM Token"
+    },
+    {
+        "unit": "6408659989dd69926352bf01fb507edc7fae658277ae4bab1b7c25ba474c49544348",
+        "ticker": "GLITCH",
+        "twitter": "https://x.com/aidacardano",
+        "description": "I see it all, I say it straight, oops, did I glitch your feelings, human?"
+    },
+    {
+        "unit": "a8f54e6eb47a7ef6d96aceb892f4e9b6211f8b736a1f6d3109648c204f6666696369616c436861726c65736d656d65",
+        "ticker": "Charles",
+        "twitter": "https://x.com/iohk_charles",
+        "description": "Official Charles Meme Coin\n"
+    },
+    {
+        "unit": "7914fae20eb2903ed6fd5021a415c1bd2626b64a2d86a304cb40ff5e4c494649",
+        "ticker": "LIFI",
+        "twitter": "https://twitter.com/LinkageFinance",
+        "description": "Decentralized Funds - A promising new investment vehicle using blockchain technology to invest in multiple tokens at once."
+    },
+    {
+        "unit": "8c904e09d2ba206d78e6904133659dadf827e478a8f71beb8e4a823a504f524b45",
+        "ticker": "PORKE",
+        "twitter": "https://twitter.com/porkecoin",
+        "description": "$PORKE is a meme coin made by community members from Porky Island focusing on memes, gifs, videos, music and good vibes"
+    },
+    {
+        "unit": "f7516c9f7b347eb412a777f3c711099b199ccd2be23b568a4a3abf6d535058",
+        "ticker": "SPXT",
+        "twitter": "https://twitter.com/SmartPlacesX",
+        "description": "SmartPlaces is a geolocation-based SocialFi network that rewards engagement with $SPXT token and offers a unique NFT land plot ownership model."
+    },
+    {
+        "unit": "25f0fc240e91bd95dcdaebd2ba7713fc5168ac77234a3d79449fc20c534f4349455459",
+        "ticker": "SOC",
+        "twitter": "https://twitter.com/the_ape_society",
+        "description": "The official token of The Ape Society"
+    },
+    {
+        "unit": "8d7526784ef72fe0ccdd085976ada0da88e7fb013e38e794b09233414245415244",
+        "ticker": "BEARD",
+        "twitter": "https://x.com/book_io",
+        "description": "“The Philosophy of Beards” by Thomas S. Gowing is a whimsical exploration of facial hair that transcends mere grooming advice to delve into the deeper cultural and philosophical significance of the beard. Gowing, a Victorian-era advocate for the beard, presents a spirited defense of facial hair as a symbol of masculinity, intellect, and individuality. Through witty anecdotes and historical anecdotes, Gowing celebrates the beard as a timeless symbol of rebellion against societal norms and a reflection of one’s inner character."
+    },
+    {
+        "unit": "2d587111358801114f04df83dc0015de0a740b462b75cce5170fc935434749",
+        "ticker": "CGI",
+        "twitter": "https://twitter.com/replyada",
+        "description": "The utility token of the CardanoGPT ecosystem."
+    },
+    {
+        "unit": "8e51398904a5d3fc129fbf4f1589701de23c7824d5c90fdb9490e15a434841524c4933",
+        "ticker": "C3",
+        "twitter": "https://twitter.com/Oraclecharli3",
+        "description": "The Charli3 Oracle token."
+    },
+    {
+        "unit": "9abf0afd2f236a19f2842d502d0450cbcd9c79f123a9708f96fd9b96454e4353",
+        "ticker": "ENCS",
+        "twitter": "https://twitter.com/ENCOINS1",
+        "description": null
+    },
+    {
+        "unit": "5dac8536653edc12f6f5e1045d8164b9f59998d3bdc300fc928434894e4d4b52",
+        "ticker": "NMKR",
+        "twitter": "https://twitter.com/nmkr_io",
+        "description": "The official NMKR Token"
+    },
+    {
+        "unit": "681b5d0383ac3b457e1bcc453223c90ccef26b234328f45fa10fd2764a5047",
+        "ticker": "JPG",
+        "twitter": "https://x.com/jpgstoreNFT",
+        "description": "The official JPG Token"
+    },
+    {
+        "unit": "804f5544c1962a40546827cab750a88404dc7108c0f588b72964754f56594649",
+        "ticker": "VYFI",
+        "twitter": "https://twitter.com/VyFiOfficial",
+        "description": "Governance token for the VyFinance ecosystem"
+    },
+    {
+        "unit": "1e76aaec4869308ef5b61e81ebf229f2e70f75a50223defa087f807b436c61726974792044414f20546f6b656e",
+        "ticker": "CLARITY",
+        "twitter": "https://x.com/clarity_dao",
+        "description": "Clarity is a decentralized governance protocol that enables DAOs and other tokenized projects to formalize on-chain governance."
+    },
+    {
+        "unit": "52d9948109a9d8e38ffdd51aed16ca195973c8c28a34e02c9dad60f34e6f74746f6461794d6f6e6164",
+        "ticker": "Gonad",
+        "twitter": "https://x.com/cardanogonad",
+        "description": "Remembering Gonads biggest fail "
+    },
+    {
+        "unit": "d958087dbccd63fdf66b4f3dfac9704f94d2362c62f7377ca46d504054686520486f736b696d70736f6e",
+        "ticker": "HOSKIM",
+        "twitter": "https://x.com/HOSKIMADA",
+        "description": "$HOSKIM: The only token powered by Cardano, donuts, and pure “D’oh!\n"
+    },
+    {
+        "unit": "ea153b5d4864af15a1079a94a0e2486d6376fa28aafad272d15b243a0014df10536861726473",
+        "ticker": "SHARDS",
+        "twitter": "https://twitter.com/fluxpointstudio",
+        "description": "FPS is a software development company delivering incredible gaming experiences while integrating AI & blockchain tech where it makes sense."
+    },
+    {
+        "unit": "f271bb1ecbe20d31415130561855408883376286c0e272bc0912b5844d304d4f",
+        "ticker": "MOMO",
+        "twitter": "https://x.com/momothe_penguin?s=21",
+        "description": "Just a chill penguin on Cardano, exploring the blockchain, stacking ADA, and vibing with the community. Whether it's memes, innovation, or just good vibes - Momo is here for it all.\n"
+    },
+    {
+        "unit": "c27600f3aff3d94043464a33786429b78e6ab9df5e1d23b774acb34c434e4354",
+        "ticker": "CNCT",
+        "twitter": "https://twitter.com/CoinectaFinance",
+        "description": "Official token of Coinecta"
+    },
+    {
+        "unit": "6a0f6c32b77596240ff8bc78e1c334fa9bd2131750f47f3afb36b1b24d4f4749",
+        "ticker": "MOGI",
+        "twitter": "https://x.com/mogi_cet",
+        "description": "The cet is wet."
+    },
+    {
+        "unit": "a00fdf4fb9ab6c8c2bd1533a2f14855edf12aed5ecbf96d4b5f5b9394334",
+        "ticker": "C4",
+        "twitter": "https://x.com/C4CrossChain",
+        "description": "GameFi token providing development tools for a decentralized gaming ecosystem."
+    },
+    {
+        "unit": "bd1c2b36071e74d1685aa2c7fa35d906ebe399ca542f04813d5a53bc4352595354414c20414e414c59534953",
+        "ticker": "CRYS",
+        "twitter": "https://x.com/CrystalAnalysis",
+        "description": "💎Cardano AI agent  💎Making analysis easier  💎Developing something that doesn’t exist"
+    }
+]
