@@ -37,21 +37,19 @@ import {
   ResizablePanel,
   ResizableHandle,
 } from '@/components/ui/resizable';
-// import { MultiQueryDescription } from '@/components/multi-query-description';
-// import { MultiQuerySql } from '@/components/multi-query-sql';
-// import { MultiDatasetChart } from '@/components/multi-dataset-chart';
+
 import { MultiDatasetTable } from '@/components/multi-dataset-table';
 import { cn } from '@/lib/utils';
 import { experimental_useObject } from '@ai-sdk/react';
 import { queryDescriptionSchema, singleQuerySchema } from '@/client/lib/types';
 import {
   usePostRunSqlMutation,
-  // usePostToolRouterMutation,
+  
 } from '@/client/store/sliceChartStoryApi';
-// import { MultiQueryPrompt } from '@/components/multi-query-prompt';
+
 import { SummarySection } from '@/components/multi-query-summary';
 import { ChatHistory } from '@/components/chat-history';
-// import { isArray } from 'lodash';
+
 import ChartRenderer from '@/components/chart';
 
 export default function Home() {
@@ -138,12 +136,7 @@ export default function Home() {
             },
           })
         );
-        // const sqlResult = await rest.unwrap();
-        // if (sqlResult && sqlResult.length > 0) {
-        //   console.log('sqlResult', sqlResult);
-        //   const toolCallResult = await postToolRouter(sqlResult[0]);
-        //   console.log('toolCallResult', toolCallResult);
-        // }
+       
       }
     },
   });
@@ -164,10 +157,6 @@ export default function Home() {
   }, [sqlGeneration, currentQueryId]);
   const handleSubmit = (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-
-    // Generate a UUID
-    // const queryId = uuidv4();
-    // setCurrentQueryId(queryId);
 
     // Define an empty query structure matching QueryState
     const emptyQuery: QueryState = {
